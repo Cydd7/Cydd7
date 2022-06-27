@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/45849681/175879445-8560f10c-7d65-42b0-9402-4d32c5168ed6.gif" width="20" height="20">
+ !
+![Hi](https://user-images.githubusercontent.com/45849681/175879445-8560f10c-7d65-42b0-9402-4d32c5168ed6.gif)
+
+
 
 <!--
 **Cydd7/Cydd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
